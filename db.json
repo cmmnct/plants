@@ -5,7 +5,7 @@
         "botanical": "Sanguinaria canadensis",
         "zone": "4",
         "light": "Mostly Shady",
-        "price": "$2.44",
+        "price": "2,44",
         "availability": 31599
     },
     {
@@ -13,7 +13,7 @@
         "botanical": "Aquilegia canadensis",
         "zone": "3",
         "light": "Mostly Shady",
-        "price": "$9.37",
+        "price": "9,37",
         "availability": 30699
     },
     {
@@ -21,7 +21,7 @@
         "botanical": "Caltha palustris",
         "zone": "4",
         "light": "Mostly Sunny",
-        "price": "$6.81",
+        "price": "6,81",
         "availability": 51799
     },
     {
@@ -29,7 +29,7 @@
         "botanical": "Caltha palustris",
         "zone": "4",
         "light": "Mostly Shady",
-        "price": "$9.90",
+        "price": "9,90",
         "availability": 30699
     },
     {
@@ -45,7 +45,7 @@
         "botanical": "Asarum canadense",
         "zone": "3",
         "light": "Mostly Shady",
-        "price": "$9.03",
+        "price": "9,03",
         "availability": 41899
     },
     {
@@ -53,7 +53,7 @@
         "botanical": "Hepatica americana",
         "zone": "4",
         "light": "Mostly Shady",
-        "price": "$4.45",
+        "price": "4,45",
         "availability": 12699
     },
     {
@@ -61,7 +61,7 @@
         "botanical": "Hepatica americana",
         "zone": "4",
         "light": "Mostly Shady",
-        "price": "$3.99",
+        "price": "3,99",
         "availability": 10299
     }
 ]
